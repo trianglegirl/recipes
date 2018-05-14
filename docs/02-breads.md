@@ -1,0 +1,51 @@
+# Breads
+
+##  Basic Wholemeal Bread
+
+* 50g white flour
+* 1/2 tsp yeast
+* 50g water
+
+For the starter, mix water and yeast in a bowl. Leave to mix and then add the 50g of flour. Leave with covered top.
+
+## Toasted Teacakes
+
+Makes 12
+
+* 225ml warm milk
+* 2 tsp yeast
+* 50g light muscovado sugar
+* 450g strong white bread flour
+* 1 tsp ground mixed spice
+* 50g butter cubed
+* 1 egg, beaten
+* 150g mixed currants/sultanas
+* 25g candied peel
+
+Pour milk in jug, stir in yeast and 1 tsp sugar. Stand for 15-20 min until frothy.
+Flour, spice in bowl. Rub in the butter.
+Stir in sugar, egg, yeast and mix with round blended knife. Add milk if dough is dry.
+Tip onto floured surface, knead for 10 min until smooth, working in currants etc. half way.
+Put dough in clean lightly greased bowl and cover with clingfilm, leave to r ise in warm place for 1.5 - 2 hours until doubled in size.
+Grease large baking sheet.
+Divide dough into 12 even pieces, shape in ball then flatten.
+Cover loosely with greased clingfilm and leave rise for 30 min.
+Preheat to 200*C
+Glaze with egg and bake for 15min.
+
+##  Pitta Bread - Paul Hollywood
+
+* 250g strong white flour, plus extra for dusting
+* 7g instant yeast
+* 20g nigella seeds or black onion seeds
+* 1 tsp salt
+* 160mlwater
+* 2 tsp olive oil, plus extra for kneading
+
+In a bowl, mix together the flour, yeast, nigella seeds and salt. Add 120ml/4fl oz of the water and 1½ teaspoons of oil. Using your fingers mix the ingredients together. Gradually add the remaining water and oil until all the flour has come away from the sides and you have a soft dough. (You may not need all the water; the dough should be soft and not sticky.)
+Pour a little oil onto your work top. Place the dough on top and knead for 5-10 minutes. The dough will be wet in the beginning but will form a smooth dough once kneaded. Once a smooth dough is achieved, place it into a clean, oiled bowl. Cover and leave to prove until doubled in size.
+Preheat the oven to 250C/475F/Gas 9 and place a clean baking tray or baking stone on the middle shelf.
+
+When the dough has doubled in size, tip it out onto a work surface dusted with flour. Knock the dough back by folding it inwards over and over again until all the air is knocked out. Split the dough into 4-6 equally sized balls. Roll each ball into an oval shape 3-5mm thick.
+Remove the hot tray from the oven, dust with flour and place the pitta breads on it. You may have to cook them in batches.
+Bake for 5-10 minutes, or until they just start to colour. Remove them from the oven and cover with a clean cloth until they are cool.
