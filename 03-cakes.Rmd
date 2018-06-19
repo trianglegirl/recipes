@@ -17,7 +17,7 @@ Cakes are fabulous. Check out the pineapple one - my favourite.
 * 3 tbsp orange juice
 * Zest of 1 orange
 
-Preheat the oven to 180C. Line the base of a 20cm square tin with nonstick paper.
+Preheat the oven to 180°C. Line the base of a 20cm square tin with nonstick paper.
 Pour the boiling water over the prunes, leave to soak for five minutes, then purée in a blender with the treacle and ale.
 In a warm bowl, beat the butter and sugar until fluffy and pale, stopping the mixer from time to time to scrape down the sides and break up any hefty sugar lumps.
 Slowly beat in the prune mixture until combined into a dark creamy liquid. Sieve the spelt to remove lumps, but add back any bran bits that get caught in the mesh.
@@ -44,11 +44,30 @@ For the icing
 * 125g icing sugar
 * 1 lemon (zest and 2 tsp juice)
 
-Preheat oven to 180C and line two 20cm round sponge tins
+Preheat oven to 180°C and line two 20cm round sponge tins
 Mix flour, baking powder and spices in one bowl. 
 In another bowl, mix sugar with oil and with with eggs until smooth.
 Stir in carrots and walnuts. Fold in the sifted dry ingredients.
 
 Divide and cake between two tins and bake for 25 min. 
 Cool in tin. 
+
+
+## Date and walnut loaf 
+
+Makes 1lb loaf tin
+
+* 130g chopped dates
+* 25g brown sugar
+* 50g chopped walnuts
+* 1 small banana
+* 15g butter
+* 225ml boiling water
+* 1 tsp bicarb
+* 200g self raising flour
+
+Pour boiling water over dates, sugar, walnuts, banana and butter. Add bicarb. Stir and let cool. Mix in the flour. Sprinkle with demarara sugar. Cook for 30-40 min at 180°C.
+
+
+
 
