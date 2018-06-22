@@ -11,5 +11,6 @@ url: 'https\://trianglegirl.github.io/recipes-bookdown/'
 description: "A list of recipes that James and I use regularly."
 ---
 
+
 # Index
-A list of recipes that James and I use regularly.
+A list of recipes that James and I use regularly. Book is still in progress.

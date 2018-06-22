@@ -1,5 +1,7 @@
 # Biscuits
 
+
+
 ## Basic Cookie Dough
 
 ### Plain (12)
@@ -126,6 +128,8 @@ Remove from the oven, leave to cool for a minute, then, using a spatula, careful
 Mix with fork and half the flour. The add rest with water.
 
 Gas 5 for 20min.
+
+<img src="images/mince-pies" width="200px" />
 
 ## Scones
 

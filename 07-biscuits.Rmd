@@ -1,5 +1,9 @@
 # Biscuits
 
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
 ## Basic Cookie Dough
 
 ### Plain (12)
@@ -127,6 +131,10 @@ Mix with fork and half the flour. The add rest with water.
 
 Gas 5 for 20min.
 
+```{r mincepies, out.width = "200px"}
+knitr::include_graphics("images/mince-pies")
+```
+
 ## Scones
 
 - 225g Self raising flour
@@ -134,6 +142,9 @@ Gas 5 for 20min.
 - 55g butter
 - 1 egg
 - 4tbsp yoghurt
+```{r mincepies, out.width = "200px"}
+knitr::include_graphics("images/mince-pies")
+```
 
 Bake at 180C for 12-14 minutes
 
