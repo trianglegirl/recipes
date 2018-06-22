@@ -116,3 +116,25 @@ Divide the mixture into 12-14 pieces (they should be roughly the size of a golf 
 Bake in the preheated oven for 10-12 minutes, or until the cookies are lightly brown at the edges.
 Remove from the oven, leave to cool for a minute, then, using a spatula, carefully lift and transfer them to a cooling rack. Once cold, store in a paper bag or an airtight container.
 
+
+## Mum's mince pie pastry
+
+* 175g margarine
+* 250g self raising flour
+* 2 tbsp water
+
+Mix with fork and half the flour. The add rest with water.
+
+Gas 5 for 20min.
+
+## Scones
+
+- 225g Self raising flour
+- 25g sugar
+- 55g butter
+- 1 egg
+- 4tbsp yoghurt
+
+Bake at 180C for 12-14 minutes
+
+

@@ -127,4 +127,15 @@ Meanwhile, for the cheese sauce, melt the butter in a medium saucepan over a med
 Simmer gently, stirring constantly, until the sauce starts to thicken and remove from heat.
 Assemble the lasagne. Sprinkle over the parmesan cheese and bake in the oven for 30-40 minutes, or until bubbling and golden-brown.
 
+## Leek and Parmesan Risotto
+
+- 4 spring onions
+- 2 leeks chopped
+- 2 garlic cloves
+- 150g arborio rice
+- 1 glass white wine
+- 750 veg stock
+
+Bring stock to simmer. Heat pan with butter and oil, cook veg for 5min. Add rice, stir to coat. Add wine and bubble until reduced.
+Add stock a little at a time until rice is tender and ooooozy. Serve with parmesan.
 

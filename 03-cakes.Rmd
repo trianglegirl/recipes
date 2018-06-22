@@ -97,3 +97,86 @@ Pour the cake batter into the greased and lined tin and bake for 45 minutes to a
 When the cake's cold, sit it on a flat platter or cake stand and get on with the icing. Lightly whip the cream cheese until smooth, sieve over the icing sugar and then beat them both together. Or do this in a processor, putting the unsieved icing sugar in first and blitz to remove lumps before adding the cheese.
 Add the cream and beat again until it makes a spreadable consistency. Ice the top of the black cake so that it resembles the frothy top of the famous pint.
 
+## Blueberry Almond Slices
+Dan Lepard
+
+* 150g fresh blueberries
+* 2 tsp cornflour
+* 125g caster sugar
+* 150g plain flour
+* ½ tsp baking powder
+* 50g ground almonds
+* 100g unsalted butter, plus 1 tsp extra
+* 1 large egg, beaten
+* 50ml milk
+* 2 tsp honey
+* 100g light brown sugar
+* 100g flaked almonds
+
+Heat 100ml water with the blueberries, cornflour and 50g caster sugar in a pan; stir gently until the blueberries bleed and the mixture thickens. Measure the flour, baking powder, ground almonds and 75g caster sugar into a bowl, rub in 100g butter, then work through the beaten egg. Butter a square 20cm tin and pat the mixture into the base of it.
+
+To make the almond crust, simmer the milk, honey, brown sugar and almonds until slightly thickened.
+
+Spread blueberry compote over the top of the cake mix, top this with the almond mixture, and bake at 180C (160C fan-assisted)/350F/ gas mark 4 for about 35 minutes. Remove and leave to cool before cutting into slices.
+
+## Dan lepard pineapple
+
+##  Blueberry Tart with Rye
+Nordic Bakery
+
+For the pastry
+- 100g (3.5 oz) Unsalted butter, softened at room temperature
+- 85g (3 oz) Caster sugar
+- 1 Egg, lightly beaten
+- 100g (3.5 oz) Plain flour
+- 60g (2.1 oz) Wholemeal rye flour
+- 1 tsp Baking powder
+
+For the filling
+- 100g (3.5 oz) Crème fraîche
+- 150ml (5.3 fl oz) Soured cream
+- 1 Egg, lightly beaten
+- 40g (1.4 oz) Caster Sugar
+- 1 tsp Vanilla extract
+- 250g (8.8 oz) Blueberries
+
+Equipment
+- 1 x 24cm loose-bottomed, fluted tart tin,greased
+
+Preheat the oven to 200°C (400°F) Gas 6.
+Put the butter and sugar in a mixing bowl and beat until well mixed. Gradually add the egg, mixing well. Tip in the flours and baking powder and mix again until a dough has formed. Transfer the dough to the tart tin and push and press it into the tin until the base and sides are evenly covered with a neat layer of dough.
+To make the filling, put the crème fraîche, soured cream, egg, sugar and vanilla extract in a mixing bowl and mix well. Pour into the pastry case, then scatter the blueberries into the tart. Bake in the preheated oven for 25 minutes, or until the filling has set and the pastry is golden brown.
+
+## Chocolate Cheesecake
+
+* 150 g digestive biscuits, crushed
+* 45 g butter, melted
+* 110 g caster sugar
+* 120 ml whipping cream
+* 150 g dark chocolate, melted and cooled
+* 2 tbsp cocoa powder
+* 200 g cream cheese
+
+Mix the biscuits with the butter and 1 tablespoon of the sugar. Press into a 18cm springform cake tin and refrigerate. 
+
+Whip the cream until soft peaks form. Add the cooled melted chocolate, then the cocoa powder mix. Blend well and set aside. 
+
+Beat the cream cheese and remaining sugar together. Fold into the cream chocolate mixture and mix thoroughly to ensure all of the ingredients are fully incorporated. 
+
+Spread the mixture on top of the crushed biscuits. Refrigerate for at least an hour to set, then serve.
+
+##  Welsh cakes
+
+* 225g self-raising flour, sieved
+* 100g salted butter
+* 1 egg
+* handful of sultanas
+* milk, if needed
+* 40g caster sugar
+* 1/2 tsp mixed spice.
+
+Rub the fat into the sieved flour to make breadcrumbs. Add the sugar, dried fruit and then the egg. Mix to combine, then form a ball of dough, using a splash of milk if needed.
+Roll out the pastry until it is a 5mm/¼in thick and cut into rounds with a 7.5-10cm/3-4in fluted cutter.
+You now need a bakestone or a heavy iron griddle. Rub it with butter and wipe the excess away. Put it on to a direct heat and wait until it heats up, place the Welsh cakes on the griddle, turning once. They need about 2-3 minutes each side. Each side needs to be caramel brown before turning although some people I know like them almost burnt.
+Remove from the pan and dust with caster sugar while still warm. Some people leave out the dried fruit, and split them when cool and sandwich them together with jam.
+
