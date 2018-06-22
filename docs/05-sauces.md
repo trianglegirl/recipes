@@ -1,6 +1,7 @@
 # Sauces
 
-## Jumbo Chilli Sauce - Nigella Lawson
+## Jumbo Chilli Sauce
+Nigella Lawson
 
 * 1 x 290 grams jar roasted peppers
 * 3 red chillies

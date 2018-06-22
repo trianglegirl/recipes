@@ -33,7 +33,8 @@ Cover loosely with greased clingfilm and leave rise for 30 min.
 Preheat to 200*C
 Glaze with egg and bake for 15min.
 
-##  Pitta Bread - Paul Hollywood
+##  Pitta Bread 
+Paul Hollywood
 
 * 250g strong white flour, plus extra for dusting
 * 7g instant yeast
@@ -50,7 +51,8 @@ When the dough has doubled in size, tip it out onto a work surface dusted with f
 Remove the hot tray from the oven, dust with flour and place the pitta breads on it. You may have to cook them in batches.
 Bake for 5-10 minutes, or until they just start to colour. Remove them from the oven and cover with a clean cloth until they are cool.
 
-## Tortillas - Linda Collister
+## Tortillas
+Linda Collister
 
 * 225g flour
 * 25g wholemeal flour

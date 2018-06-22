@@ -7,10 +7,8 @@ bibliography: [book.bib]
 biblio-style: apalike
 link-citations: yes
 github-repo: trianglegirl/recipes-bookdown
-url: 'http\://seankross.com/bookdown-start/'
-description: "Everything you need (and nothing more) to start a bookdown book."
+url: 'https\://trianglegirl.github.io/recipes-bookdown/'
+description: "A list of recipes that James and I use regularly."
 ---
-
-# Preface {-}
 
 A list of recipes that James and I use regularly.
