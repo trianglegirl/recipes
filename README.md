@@ -1,4 +1,6 @@
 # recipes
+
+Work in progress. I am currently in the process of moving our reciepes from website format to Bookdown format. Currently many reciepes are missing/ill formated and the chapter structure is temporary. View the [in progress version](https://trianglegirl.github.io/recipes/).
 A repository of recipes that James and I sometimes use.
 
 Recipes to add 
