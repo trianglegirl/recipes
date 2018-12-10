@@ -5,19 +5,18 @@ I am currently in the process of moving our reciepes from website format to Book
 
 
 Recipes to add 
-
-* Split pea soup - Cranks
-* Soda bread - perfect, delia?
-* Naan
-* Wrap/chapatti
-* Houmous
-* Stew staple
-* Mums moroccan chickpeas
-* Coffee cake
-* Muffin reciepe
-* Banana bread
-* Tomato sauce
-* Lentil dahl
-* Bean chilli
-* Sweet potato cake
-* Potato cakes
+- [ ] Split pea soup - Cranks
+- [ ] Soda bread - perfect, delia?
+- [ ] Naan
+- [ ] Wrap/chapatti
+- [ ] Houmous
+- [ ] Stew staple
+- [ ] Mums moroccan chickpeas
+- [ ] Coffee cake
+- [ ] Muffin reciepe
+- [ ] Banana bread
+- [ ] Tomato sauce
+- [ ] Lentil dahl
+- [ ] Bean chilli
+- [ ] Sweet potato cake
+- [ ] Potato cakes
