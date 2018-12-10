@@ -7,7 +7,6 @@ I am currently in the process of moving our reciepes from website format to Book
 Recipes to add 
 
 * Split pea soup - Cranks
-* Standard wholemeal loaf
 * Soda bread - perfect, delia?
 * Naan
 * Wrap/chapatti
@@ -20,3 +19,5 @@ Recipes to add
 * Tomato sauce
 * Lentil dahl
 * Bean chilli
+* Sweet potato cake
+* Potato cakes
