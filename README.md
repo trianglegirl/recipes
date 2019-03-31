@@ -7,9 +7,9 @@ I am currently in the process of moving our reciepes from website format to Book
 Recipes to add 
 - [ ] Split pea soup - Cranks
 - [ ] Soda bread - perfect, delia?
-- [ ] Naan
+- [x] Naan
 - [ ] Wrap/chapatti
-- [ ] Houmous
+- [ ] Humous
 - [ ] Stew staple
 - [ ] Mums moroccan chickpeas
 - [ ] Coffee cake
@@ -20,3 +20,4 @@ Recipes to add
 - [ ] Bean chilli
 - [ ] Sweet potato cake
 - [ ] Potato cakes
+- [ ] Sweetcorn fritters
