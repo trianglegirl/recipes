@@ -1,6 +1,6 @@
 # Breads
 
-# Bread Machine - Sandwich Setting
+## Bread Machine Loaf - Sandwich Setting
 
 * 1 tsp yeast
 * 500g wholemeal bread flour

@@ -1,8 +1,6 @@
 # Biscuits
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
+
 
 ## Basic Cookie Dough
 
@@ -131,9 +129,7 @@ Mix with fork and half the flour. The add rest with water.
 
 Gas 5 for 20min.
 
-```{r mincepies, out.width = "200px"}
-knitr::include_graphics("images/mince-pies")
-```
+<img src="images/mince-pies" width="200px" />
 
 ## Scones
 
@@ -142,9 +138,7 @@ knitr::include_graphics("images/mince-pies")
 - 55g butter
 - 1 egg
 - 4tbsp yoghurt
-```{r mincepies, out.width = "200px"}
-knitr::include_graphics("images/mince-pies")
-```
+<img src="images/mince-pies" width="200px" />
 
 Bake at 180C for 12-14 minutes
 
