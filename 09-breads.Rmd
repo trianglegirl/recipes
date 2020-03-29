@@ -1,4 +1,4 @@
-# Breads {-}
+# Breads `r emo::ji("bread")` {-}
 
 ## Bread Machine Loaf - Sandwich Setting {-}
 
@@ -50,7 +50,7 @@ When the dough has doubled in size, tip it out onto a work surface dusted with f
 Remove the hot tray from the oven, dust with flour and place the pitta breads on it. You may have to cook them in batches.
 Bake for 5-10 minutes, or until they just start to colour. Remove them from the oven and cover with a clean cloth until they are cool.
 
-## Tortillas
+## Tortillas {-}
 Linda Collister
 
 * 225g flour
