@@ -15,6 +15,8 @@ Simon Rimmer
 
 Mix the flour, bicarbonate of soda and sugar together in a bowl. In a separate bowl combine one egg with the 50g melted butter, milk and cottage cheese then add this to the flour mix and stir together to make a batter. Stir in the blueberries. Lightly oil a frying pan and preheat over a medium heat. Spoon a small ladleful of the pancake batter into the pan and cook for one minute on each side, until golden.
 
+<img src="images/blueberry-pancakes.jpg" width="200px" />
+
 ## Granola {-}
 
 * 250g oats

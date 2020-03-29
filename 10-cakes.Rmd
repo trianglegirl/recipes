@@ -2,8 +2,6 @@
 
 # Cakes `r emo::ji("shortcake")` {-}
 
-Cakes are fabulous. Check out the pineapple one - my favourite.
-
 ## Dark Aniseed Cake {-}
 Dan Lepard
 
@@ -48,13 +46,17 @@ For the icing (Enough to top and sides)
 * 3tbsp icing sugar
 * 1 lemon (zest and 2 tsp juice)
 
-Preheat oven to 180°C and line two 20cm round sponge tins
+Preheat oven to 180°C and line two 20cm round sponge tins.
 Mix flour, baking powder and spices in one bowl. 
 In another bowl, mix sugar with oil and with with eggs until smooth.
 Stir in carrots and walnuts. Fold in the sifted dry ingredients.
-
 Bake in springformtin for 30  min. 
 Cool in tin. 
+
+```{r carrotcake, out.width = "200px", echo = FALSE}
+knitr::include_graphics("images/carrot-cake.jpg")
+```
+
 
 
 ## Date and walnut loaf {-}
@@ -99,29 +101,6 @@ Pour the cake batter into the greased and lined tin and bake for 45 minutes to a
 When the cake's cold, sit it on a flat platter or cake stand and get on with the icing. Lightly whip the cream cheese until smooth, sieve over the icing sugar and then beat them both together. Or do this in a processor, putting the unsieved icing sugar in first and blitz to remove lumps before adding the cheese.
 Add the cream and beat again until it makes a spreadable consistency. Ice the top of the black cake so that it resembles the frothy top of the famous pint.
 
-## Blueberry Almond Slices
-Dan Lepard
-
-* 150g fresh blueberries
-* 2 tsp cornflour
-* 125g caster sugar
-* 150g plain flour
-* ½ tsp baking powder
-* 50g ground almonds
-* 100g unsalted butter, plus 1 tsp extra
-* 1 large egg, beaten
-* 50ml milk
-* 2 tsp honey
-* 100g light brown sugar
-* 100g flaked almonds
-
-Heat 100ml water with the blueberries, cornflour and 50g caster sugar in a pan; stir gently until the blueberries bleed and the mixture thickens. Measure the flour, baking powder, ground almonds and 75g caster sugar into a bowl, rub in 100g butter, then work through the beaten egg. Butter a square 20cm tin and pat the mixture into the base of it.
-
-To make the almond crust, simmer the milk, honey, brown sugar and almonds until slightly thickened.
-
-Spread blueberry compote over the top of the cake mix, top this with the almond mixture, and bake at 180C (160C fan-assisted)/350F/ gas mark 4 for about 35 minutes. Remove and leave to cool before cutting into slices.
-
-## Dan lepard pineapple {-}
 
 ##  Blueberry Tart with Rye {-}
 Nordic Bakery

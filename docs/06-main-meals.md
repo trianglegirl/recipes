@@ -1,25 +1,5 @@
 # Mexican 🌯 {-}
 
-## Black-eyed beans with mushrooms {-}
-Madhur Jaffrey
-
-* 250g dried black-eyed beans 
-* 250g mushrooms
-* 1tsp cumin seeds
-* 1 cinnamon stick
-* 1 large onion
-* 3 cloves garlic
-* 400g tinned tomatoes
-* 2 tsp ground corriander
-* 1 tsp ground cumin
-* 1/2 tsp turmeric
-* 1/4 tsp chilli powder
-* 3 tbsp fresh corriander
-
-Cook beans in 750ml of water. 
-Fry cumin seeds and cinammon stick in hot oil.Add in garlic and onion. Then mushrooms and cook until wilted.
-Add tomatoes and spice. Cook for 10 mins. Throw in beans and cook for 20 min. 
-
 ## Mexican Bean Chilli {-}
 
 * 150g kidney beans ( or 1 tin)
@@ -49,6 +29,19 @@ Add beans, simmer, cook for 15min.
 
 Serve with rice and sour cream.
 
+## Refried beans {-}
+
+* 1 onion
+* 1-3 cloves garlic
+* 2 tins beans pinto or kidney (250g dried)
+* 1 tsp cumin powder
+* 1/4 tsp corriander powder
+* 150ml stock
+* 2 tbsp fresh corriander 
+
+Fry onion garlic in oil
+Add spices, beans, stock. 
+Cook until soft (10-20 min) and mash. 
 
 ##  Moroccan Spiced Chickpeas with Spinach {-}
 
@@ -67,28 +60,6 @@ Chuck in spinach and coriander and cook for 2 min.
 Serve with naan and yogurt.
 
 
-##  The Perfect Dahl {-}
-
-* 200-400g Dahl ( + red lentils?)
-* Throw in garlic and turmeric
-* Flash fry cumin seeds and mustard seeds
-* Onion garlic add
-* Sweet potato/ spinach?
-
-## Refried beans {-}
-
-* 1 onion
-* 1-3 cloves garlic
-* 2 tins beans pinto or kidney (250g dried)
-* 1 tsp cumin powder
-* 1/4 tsp corriander powder
-* 150ml stock
-* 2 tbsp fresh corriander 
-
-Fry onion garlic in oil
-Add spices, beans, stock. 
-Cook until soft (10-20 min) and mash. 
-
 ##  Rice and peas {-}
 
 * 1 onion
@@ -102,50 +73,3 @@ Cook until soft (10-20 min) and mash.
 * all spice berry
 
 Fry onion and garlic. Add everything else. bring to boil, cover and cook for 20 min. 
-
-## Spiced Butternut Squash {-}
-
-* 600g butternut squash
-* 1/4 tsp turmeric
-* 1 bay leaf
-* 150ml water
-* 1 small onion
-* 1 clove garlic
-* 50g butter
-* 1 tsp cumin seeds
-* 1 tsp coriander seeds
-* 1 inch ginger
-
-Squash, turmeric, bay leaf and water in pan. Lid on 20 min. Mash.
-Cook rest separately. Add to squash.
-Serve with rice.
-
-## Vegetarian Cheese Burgers {-}
-
-* 400g Red kidney beans rinsed and drained
-* 1 small onion chopped finely
-* 100g cheddar cheese
-* 100g breadcrumbs
-* 1 eggs
-* plain flour (for dusting)
-* 1 tbsp oil
-
-Blitz beans, onion, cheese, breadcrumbs and egg in food blender. Flour hands, shape into burgers and fry.
-
-## Roasted aubergine with chilli peanut dressing {-}
-
-* 1 tbsp oil
-* 1 tbsp sweet chilli sauce
-* 2 tsp soy sauce
-* 1 small aubergine
-* 1 tbsp peanut butter
-* ½ lime
-* 70g basmati rice
-* small bunch coriander, a few leaves picked to serve, the rest chopped
-* 2 spring onions, thinly sliced
-
-Heat oven to 180C. Mix the oil with ½ tbsp sweet chilli sauce and 1 tsp soy. Cut the aubergine into wedges lengthways, then transfer to a foil-lined roasting tin. Pour over the sweet chilli mixture and toss. Separate them out so they cook evenly, then roast for 30 mins.
-
-Meanwhile, mix the remaining sweet chilli, soy and the peanut butter. Squeeze in the lime, then add a splash of water and set aside. When the aubergine has 15 mins left, cook the rice following pack instructions, then stir through the chopped coriander and spring onion. 
-
-Pile the rice into a bowl, and top with the aubergine. Drizzle over the peanut sauce, then scatter over the coriander leaves and spring onions.

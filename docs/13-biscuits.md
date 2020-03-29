@@ -127,11 +127,6 @@ Mix with fork and half the flour. The add rest with water.
 
 Gas 5 for 20min.
 
-
-```r
-knitr::include_graphics("images/mince-pies")
-```
-
 <img src="images/mince-pies" width="200px" />
 
 ## Scones {-}
