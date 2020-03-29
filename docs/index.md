@@ -13,6 +13,7 @@ description: "A list of recipes that James and I use regularly."
 ---
 
 
-# Introduction {-}
+This bookdown contains recipes that James and I use regularly.
 
-This bookdown compiles recipes that James and I use regularly.
+
+<img src="images/carrot-cake.jpg" width="500px" />

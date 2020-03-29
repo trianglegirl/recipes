@@ -15,6 +15,9 @@ description: "A list of recipes that James and I use regularly."
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-# Introduction {-}
+This bookdown contains recipes that James and I use regularly.
 
-This bookdown compiles recipes that James and I use regularly.
+
+```{r carrotcake, out.width = "500px"}
+knitr::include_graphics("images/carrot-cake.jpg")
+```
