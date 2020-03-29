@@ -1,6 +1,6 @@
-# Noodles
+# Noodles {-}
 
-## Thai Butternut Squash Noodles
+## Thai Butternut Squash Noodles {-}
 
  * 1/2 onion
 * Clove of garlic

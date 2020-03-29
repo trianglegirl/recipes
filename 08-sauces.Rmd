@@ -1,6 +1,6 @@
-# Sauces
+# Sauces {-}
 
-## Jumbo Chilli Sauce
+## Jumbo Chilli Sauce {-}
 Nigella Lawson
 
 * 1 x 290 grams jar roasted peppers
@@ -16,7 +16,7 @@ Take the stalks off the chillies, and deseed them if you don’t like it really 
 Tip in the garlic clove, and lime zest and juice. Cut the stalks off the coriander and add these, too. Process or whiz with a stick blender until paste*like.
 Add the coriander leaves and salt and process or blend again, then pour the oil down the funnel of the processor as the motor is running, or pour the oil into your bowl and whiz again with a stick blender. It will make a sauce that is more liquid than a salsa, but soft and spoonable rather than a pouring sauce.
 
-## Peanut Sauce
+## Peanut Sauce {-}
 
 * 140g smooth peanut sauce
 * 1 clove of garlic

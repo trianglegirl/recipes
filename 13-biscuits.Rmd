@@ -1,12 +1,8 @@
-# Biscuits
+# Biscuits {-}
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
+## Basic Cookie Dough {-}
 
-## Basic Cookie Dough
-
-### Plain (12)
+### Plain (12) {-}
 * 120g butter
 * 100g sugar
 * 1 egg
@@ -15,7 +11,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 Beat butter and sugar until fluffy. Beat in egg and vanilla. Mix in flour. Gas 4 10-12 mins until pale golden and slightly soft in the middle.
 
-### Peanut butter cookies (14)
+### Peanut butter cookies (14) {-}
 * 100g butter
 * 75g light muscovado
 * 75g caster
@@ -25,7 +21,7 @@ Beat butter and sugar until fluffy. Beat in egg and vanilla. Mix in flour. Gas 4
 * 200g plain flour
 * 75g peanuts (half in, half on top)
 
-### Fruit and nut (12)
+### Fruit and nut (12) {-}
 * 75g butter
 * 100g light muscovado
 * 1 egg 
@@ -37,7 +33,7 @@ Beat butter and sugar until fluffy. Beat in egg and vanilla. Mix in flour. Gas 4
 * 3 tbsp roasted sunflour seeds
 * 75g oats
 
-### Double choc chunk (14)
+### Double choc chunk (14) {-}
 * 100g butter
 * 100g light muscovado
 * 25g caster sugar
@@ -48,7 +44,7 @@ Beat butter and sugar until fluffy. Beat in egg and vanilla. Mix in flour. Gas 4
 * 90g oats
 * 100g each plain and milk choc (large chunks)
 
-## Grasmere Ginger Shortbread
+## Grasmere Ginger Shortbread {-}
 
 * 150g plain flour
 * 150g wholemeal flour (wheat of spelt)
@@ -65,7 +61,7 @@ Remove 4 tbsp crumbs. Press rest of crumbs into the tin. Scatter rest loosely on
 Bake for 25-28 min until light golden.
 Cool in tin and cut into fingers
 
-## Molasses Cookies
+## Molasses Cookies {-}
 
 * 180g butter
 * 180g muscovado sugar
@@ -83,7 +79,7 @@ Roll into walnut sized balls and dip in caster sugar
 Bake at 190 for 12-15 min.
 
 
-## Muscovado Peanut Cookies
+## Muscovado Peanut Cookies {-}
 Dan Lepard
 
 * 75g unsalted butter, softened
@@ -101,7 +97,7 @@ In a large mixing bowl, beat together the butter, peanut butter, sugar, treacle 
 
 Heat the oven to 180C and line a baking tray with foil or nonstick paper. Place round, teaspoon-sized balls of the dough on to the tray, spaced 5cm apart, and bake for 12-14 minutes, until puffed. Remove the tray from the oven and leave for five minutes to set slightly, then use a spatula to move the cookies to a wire rack or cold plate to cool.
 
-## One A Day Cookies
+## One A Day Cookies {-}
 Dan Lepard
 
 * 125g unsalted butter, softened
@@ -121,7 +117,7 @@ Bake in the preheated oven for 10-12 minutes, or until the cookies are lightly b
 Remove from the oven, leave to cool for a minute, then, using a spatula, carefully lift and transfer them to a cooling rack. Once cold, store in a paper bag or an airtight container.
 
 
-## Mum's mince pie pastry
+## Mum's mince pie pastry {-}
 
 * 175g margarine
 * 250g self raising flour
@@ -135,16 +131,13 @@ Gas 5 for 20min.
 knitr::include_graphics("images/mince-pies")
 ```
 
-## Scones
+## Scones {-}
 
 - 225g Self raising flour
 - 25g sugar
 - 55g butter
 - 1 egg
 - 4tbsp yoghurt
-```{r scones, out.width = "200px"}
-knitr::include_graphics("images/mince-pies")
-```
 
 Bake at 180C for 12-14 minutes
 

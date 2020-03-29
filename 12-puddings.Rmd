@@ -1,6 +1,6 @@
-# Puddings
+# Puddings {-}
 
-## Self-saucing lemon pudding
+## Self-saucing lemon pudding {-}
 
 Fits our small glass bowl serves 2
 

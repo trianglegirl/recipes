@@ -1,6 +1,6 @@
-# Main meals
+# Main meals {-}
 
-## Black-eyed beans with mushrooms
+## Black-eyed beans with mushrooms {-}
 Madhur Jaffrey
 
 * 250g dried black-eyed beans 
@@ -20,7 +20,7 @@ Cook beans in 750ml of water.
 Fry cumin seeds and cinammon stick in hot oil.Add in garlic and onion. Then mushrooms and cook until wilted.
 Add tomatoes and spice. Cook for 10 mins. Throw in beans and cook for 20 min. 
 
-## Mexican Bean Chilli
+## Mexican Bean Chilli {-}
 
 * 150g kidney beans ( or 1 tin)
 * 150g black eyed beans ( 1 tin)
@@ -50,7 +50,7 @@ Add beans, simmer, cook for 15min.
 Serve with rice and sour cream.
 
 
-##  Moroccan Spiced Chickpeas with Spinach
+##  Moroccan Spiced Chickpeas with Spinach {-}
 
 - 1 onion
 - 2 cloves garlic
@@ -67,7 +67,7 @@ Chuck in spinach and coriander and cook for 2 min.
 Serve with naan and yogurt.
 
 
-##  The Perfect Dahl
+##  The Perfect Dahl {-}
 
 * 200-400g Dahl ( + red lentils?)
 * Throw in garlic and turmeric
@@ -75,7 +75,7 @@ Serve with naan and yogurt.
 * Onion garlic add
 * Sweet potato/ spinach?
 
-## Refried beans
+## Refried beans {-}
 
 * 1 onion
 * 1-3 cloves garlic
@@ -89,7 +89,7 @@ Fry onion garlic in oil
 Add spices, beans, stock. 
 Cook until soft (10-20 min) and mash. 
 
-##  Rice and peas
+##  Rice and peas {-}
 
 * 1 onion
 * 2 cloves of garlic
@@ -103,7 +103,7 @@ Cook until soft (10-20 min) and mash.
 
 Fry onion and garlic. Add everything else. bring to boil, cover and cook for 20 min. 
 
-## Spiced Butternut Squash
+## Spiced Butternut Squash {-}
 
 * 600g butternut squash
 * 1/4 tsp turmeric
@@ -120,7 +120,7 @@ Squash, turmeric, bay leaf and water in pan. Lid on 20 min. Mash.
 Cook rest separately. Add to squash.
 Serve with rice.
 
-## Vegetarian Cheese Burgers
+## Vegetarian Cheese Burgers {-}
 
 * 400g Red kidney beans rinsed and drained
 * 1 small onion chopped finely
@@ -132,7 +132,7 @@ Serve with rice.
 
 Blitz beans, onion, cheese, breadcrumbs and egg in food blender. Flour hands, shape into burgers and fry.
 
-## Roasted aubergine with chilli peanut dressing
+## Roasted aubergine with chilli peanut dressing {-}
 
 * 1 tbsp oil
 * 1 tbsp sweet chilli sauce

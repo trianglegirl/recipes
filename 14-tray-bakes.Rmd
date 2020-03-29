@@ -1,10 +1,10 @@
-# Tray bakes
+# Tray bakes {-}
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-## Fruit oat and seeds bar
+## Fruit oat and seeds bar {-}
 
 * 70g light muscovado
 * 2 tbsp golden syrup

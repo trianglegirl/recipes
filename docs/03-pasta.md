@@ -1,6 +1,6 @@
-# Pasta
+# Pasta {-}
 
-## Lentil Ragu
+## Lentil Ragu {-}
 
 * 1 onion, finely chopped
 * 2 carrots, finely chopped
@@ -18,7 +18,7 @@ Heat the oil in a large saucepan and add the onions, carrots, celery and garlic.
 Stir in the lentils, chopped tomatoes, tomato purée, herbs and stock. Bring to a simmer, then cook for 40-50 mins until the lentils are tender and saucy – splash in water if you need. Season.
 Serve with spaghetti or linguine and cheese.
 
-## Butternut squash pasta
+## Butternut squash pasta {-}
 
 * 30g butter
 * 1 garlic clove
@@ -35,7 +35,7 @@ Add squash, rosemary, lemon, nutmeg. Sweat over a gentle heat 15 min.
 Squash 1/3 into a sauce and mix with the pasta
 
 
-## Courgette Lemon Pasta
+## Courgette Lemon Pasta {-}
 
 * 200g penne
 * 400g cougettes
@@ -49,7 +49,7 @@ Top, tail and grate courgettes.
 Butter in large pan and stir fry courgettes and garlic for 2 min.
 Drain pasta (save a bit of water) return to pan. Pour over cream, lemon, add courgettes and mix.
 
-## Roasted Mediterranean Vegetable Lasagna
+## Roasted Mediterranean Vegetable Lasagna {-}
 Delia Smith
 
 * 9 sheets spinach lasagne (the kind that needs no pre-cooking)
@@ -89,7 +89,7 @@ Turn the oven down to 180°C.
 Bake for 25-30 min.
 
 
-## Vegetarian Lentil Lasagne
+## Vegetarian Lentil Lasagne {-}
 The Hairy Bikers
 
 Serves 4
@@ -127,7 +127,7 @@ Meanwhile, for the cheese sauce, melt the butter in a medium saucepan over a med
 Simmer gently, stirring constantly, until the sauce starts to thicken and remove from heat.
 Assemble the lasagne. Sprinkle over the parmesan cheese and bake in the oven for 30-40 minutes, or until bubbling and golden-brown.
 
-## Leek and Parmesan Risotto
+## Leek and Parmesan Risotto {-}
 
 - 4 spring onions
 - 2 leeks chopped

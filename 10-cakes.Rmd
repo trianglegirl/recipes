@@ -1,8 +1,8 @@
-# Cakes
+# Cakes {-}
 
 Cakes are fabulous. Check out the pineapple one - my favourite.
 
-## Dark Aniseed Cake
+## Dark Aniseed Cake {-}
 Dan Lepard
 
 * 350ml boiling water
@@ -26,7 +26,7 @@ Toss the baking powder and seeds through the flour, then beat evenly through the
 Tip the mixture into the tin, smooth the top and bake for 50 minutes, until a skewer inserted into the middle comes out clean.
 Cool in the tin, then transfer to a plate. Beat the icing sugar and orangey bits together, then spread this over the cake.
 
-## Easy carrot cake
+## Easy carrot cake {-}
 Dan Lepard
 
 * 175g plain flour
@@ -55,7 +55,7 @@ Bake in springformtin for 30  min.
 Cool in tin. 
 
 
-## Date and walnut loaf 
+## Date and walnut loaf {-}
 Jill Dupleix (Favourite Food)
 
 * 130g chopped dates
@@ -69,7 +69,7 @@ Jill Dupleix (Favourite Food)
 
 Pour boiling water over dates, sugar, walnuts, banana and butter. Add bicarb. Stir and let cool. Mix in the flour. Sprinkle with demarara sugar. Cook for 30-40 min at 180°C. Makes 1lb loaf tin.
 
-## Chocolate Guinness Cake
+## Chocolate Guinness Cake {-}
 Nigella Lawson
 
 For the Cake
@@ -119,9 +119,9 @@ To make the almond crust, simmer the milk, honey, brown sugar and almonds until 
 
 Spread blueberry compote over the top of the cake mix, top this with the almond mixture, and bake at 180C (160C fan-assisted)/350F/ gas mark 4 for about 35 minutes. Remove and leave to cool before cutting into slices.
 
-## Dan lepard pineapple
+## Dan lepard pineapple {-}
 
-##  Blueberry Tart with Rye
+##  Blueberry Tart with Rye {-}
 Nordic Bakery
 
 For the pastry
@@ -147,7 +147,7 @@ Preheat the oven to 200°C (400°F) Gas 6.
 Put the butter and sugar in a mixing bowl and beat until well mixed. Gradually add the egg, mixing well. Tip in the flours and baking powder and mix again until a dough has formed. Transfer the dough to the tart tin and push and press it into the tin until the base and sides are evenly covered with a neat layer of dough.
 To make the filling, put the crème fraîche, soured cream, egg, sugar and vanilla extract in a mixing bowl and mix well. Pour into the pastry case, then scatter the blueberries into the tart. Bake in the preheated oven for 25 minutes, or until the filling has set and the pastry is golden brown.
 
-## Chocolate Cheesecake
+## Chocolate Cheesecake {-}
 
 * 150 g digestive biscuits, crushed
 * 45 g butter, melted
@@ -165,7 +165,7 @@ Beat the cream cheese and remaining sugar together. Fold into the cream chocolat
 
 Spread the mixture on top of the crushed biscuits. Refrigerate for at least an hour to set, then serve.
 
-##  Welsh cakes
+##  Welsh cakes {-}
 
 * 225g self-raising flour, sieved
 * 100g salted butter
@@ -181,7 +181,7 @@ You now need a bakestone or a heavy iron griddle. Rub it with butter and wipe th
 Remove from the pan and dust with caster sugar while still warm. Some people leave out the dried fruit, and split them when cool and sandwich them together with jam.
 
 
-## Vegan Brownies
+## Vegan Brownies {-}
 
 * 160g cooked black beans
 * 100g sugar
@@ -197,7 +197,7 @@ Remove from the pan and dust with caster sugar while still warm. Some people lea
 
 Preheat oven to 175° and grease an 8" tray. Blitz the beans, oil, and sugar in a food processor. Add cocoa powder, banana, and vanilla extract, and blend again. Sift in flour, baking powder, and salt. Stir until smooth. Gently stir in chocolate and walnut pieces.  Bake for 25-30 minutes and let it cool in the tray.
 
-## Dan Lepard Lemon Cake
+## Dan Lepard Lemon Cake {-}
 
 * 50g unsalted butter, melted 
 * 50ml sunflower oil

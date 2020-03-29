@@ -1,13 +1,13 @@
-# Breads
+# Breads {-}
 
-## Bread Machine Loaf - Sandwich Setting
+## Bread Machine Loaf - Sandwich Setting {-}
 
 * 1 tsp yeast
 * 500g wholemeal bread flour
 * 3/4 tsp salt
 * 350ml water
 
-## Toasted Teacakes
+## Toasted Teacakes {-}
 
 Makes 12
 
@@ -32,7 +32,7 @@ Cover loosely with greased clingfilm and leave rise for 30 min.
 Preheat to 200*C
 Glaze with egg and bake for 15min.
 
-##  Pitta Bread 
+##  Pitta Bread {-}
 Paul Hollywood
 
 * 250g strong white flour, plus extra for dusting
@@ -67,7 +67,7 @@ Divide the dough into 8 equal pieces and shape into balls. Roll out on a floured
 
 Heat in a griddle 1 min per side. 
 
-## Nordic Cinnamon Buns
+## Nordic Cinnamon Buns {-}
 
 Makes 12-13
 

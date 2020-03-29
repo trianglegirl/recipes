@@ -5,3 +5,6 @@ _bookdown_files
 .DS_Store
 *.rds
 .Rapp.history
+rsconnect
+_publish.R
+_book

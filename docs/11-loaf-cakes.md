@@ -1,6 +1,6 @@
-# Loaf Cakes
+# Loaf Cakes {-}
 
-## Date and walnut loaf 
+## Date and walnut loaf  {-}
 Jill Dupleix (Favourite Food)
 
 * 130g chopped dates
@@ -14,7 +14,7 @@ Jill Dupleix (Favourite Food)
 
 Pour boiling water over dates, sugar, walnuts, banana and butter. Add bicarb. Stir and let cool. Mix in the flour. Sprinkle with demarara sugar. Cook for 30-40 min at 180°C. Makes 1lb loaf tin.
 
-## Aunt Edith's Bara Brith
+## Aunt Edith's Bara Brith {-}
 
 * 350g self Raising flour
 * 350g mixed fruit soaked overnight with a cold cup of tea
@@ -23,7 +23,7 @@ Pour boiling water over dates, sugar, walnuts, banana and butter. Add bicarb. St
 
 30 min on 170°C (cover top with grease proof)
 
-## The Perfect Malt Loaf
+## The Perfect Malt Loaf {-}
 
 * 300g flour
 * 180ml tea
@@ -39,4 +39,4 @@ Line a 2lb loaf tin with paper and heat the oven to 180C/350F/gas mark four.
 Stir flour into the mixture to make a soft batter. Spoon into the tin and bake for an hour, until a skewer comes out cleanish (the top will bow, don't worry!).
 Paint the top with malt extract and leave to cool in the tin.
 
-## The Perfect Banana bread
+## The Perfect Banana bread {-}

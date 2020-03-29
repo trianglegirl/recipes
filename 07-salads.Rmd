@@ -1,6 +1,6 @@
-# Salads
+# Salads {-}
 
-## Broad Bean, Barley and Mint Salad
+## Broad Bean, Barley and Mint Salad {-}
 
 - 1l vegetable stock
 - 500g podded fresh broad bean (or use frozen)
@@ -18,7 +18,7 @@ Heat the stock in a medium saucepan until boiling, then add the broad beans and 
 Add the pearl barley to the stock and simmer over a low heat for 40-45 mins until tender. Drain the barley, stir through the mint leaves while still warm, then leave to cool.
 For the dressing, whisk all the ingredients together, season generously and mix into the cooled barley. Serve on a large platter or individual plates, scattered with the radishes, hazelnuts and goat’s cheese.
 
-## Carrot peanut salad
+## Carrot peanut salad {-}
 Nigella Lawson
 
 * 2/3 carrots
