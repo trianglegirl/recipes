@@ -13,6 +13,8 @@ description: "A list of recipes that James and I use regularly."
 ---
 
 
+# Introduction {-}
+
 This bookdown contains recipes that James and I use regularly.
 
 

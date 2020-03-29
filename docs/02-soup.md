@@ -33,11 +33,12 @@ Atleast 1L water
 Fresh coriander. Fry seeds, then onion, garlic, ginger.
 
 
-## Hot and sour detox soup - Nigella Lawson {-}
+## Hot and sour detox soup {-}
+Nigella Lawson
 
 
 * 225g button mushrooms
-* 2 * 3 small Chillis, fresh red
+* 2 / 3 small Chillis, fresh red
 * 1 Coriander
 * 4 Kaffir lime, leaves
 * 1 Lemongrass
