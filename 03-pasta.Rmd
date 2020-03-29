@@ -1,4 +1,4 @@
-# Pasta {-}
+# Pasta `r emo::ji("spaghetti")` {-}
 
 ## Lentil Ragu {-}
 

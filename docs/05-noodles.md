@@ -1,4 +1,4 @@
-# Noodles {-}
+# Noodles 🍜 {-}
 
 ## Thai Butternut Squash Noodles {-}
 
@@ -8,10 +8,10 @@
 * Lemon grass
 * Couple kaffir lime leaves
 * Chilli
-* 300ml water ( more if cream coconut)
+* 300ml water (more if cream coconut)
 * 1/2 tin coconut milk/ 50g cream coconut
 * Small carrot
-* Peppers ( red/orange)
+* Peppers (red/orange)
 * Juice and zest of lime
 
 Cook onion and garlic

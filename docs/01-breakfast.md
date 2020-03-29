@@ -1,4 +1,4 @@
-# Breakfast {-}
+# Breakfast 🥞{-}
 
 ## Blueberry pancakes {-}
 Simon Rimmer

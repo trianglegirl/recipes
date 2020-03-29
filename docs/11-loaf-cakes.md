@@ -1,4 +1,4 @@
-# Loaf Cakes {-}
+# Loaf Cakes 🍞 {-}
 
 ## Date and walnut loaf  {-}
 Jill Dupleix (Favourite Food)

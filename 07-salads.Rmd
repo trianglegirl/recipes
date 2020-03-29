@@ -1,4 +1,4 @@
-# Salads {-}
+# Salads `r emo::ji("salad")`{-}
 
 ## Broad Bean, Barley and Mint Salad {-}
 

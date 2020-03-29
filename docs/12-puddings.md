@@ -1,4 +1,4 @@
-# Puddings {-}
+# Puddings 🍮{-}
 
 ## Self-saucing lemon pudding {-}
 

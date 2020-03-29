@@ -1,4 +1,4 @@
-# Salads {-}
+# Salads 🥗{-}
 
 ## Broad Bean, Barley and Mint Salad {-}
 

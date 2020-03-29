@@ -1,4 +1,4 @@
-# Loaf Cakes {-}
+# Loaf Cakes `r emo::ji("bread")` {-}
 
 ## Date and walnut loaf  {-}
 Jill Dupleix (Favourite Food)

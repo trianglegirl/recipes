@@ -1,4 +1,4 @@
-# Sauces {-}
+# Sauces `r emo::ji("hot_pepper")` {-}
 
 ## Jumbo Chilli Sauce {-}
 Nigella Lawson

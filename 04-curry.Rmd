@@ -1,1 +1,1 @@
-# Curry {-}
+# Curry `r emo::ji("curry")` {-}

@@ -1,4 +1,4 @@
-# Breakfast {-}
+# Breakfast `r emo::ji("pancakes")`{-}
 
 ## Blueberry pancakes {-}
 Simon Rimmer

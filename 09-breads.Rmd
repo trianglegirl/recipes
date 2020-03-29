@@ -1,4 +1,4 @@
-# Breads `r emo::ji("bread")` {-}
+# Bread `r emo::ji("baguette_bread")` {-}
 
 ## Bread Machine Loaf - Sandwich Setting {-}
 

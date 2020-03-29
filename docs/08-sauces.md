@@ -1,4 +1,4 @@
-# Sauces {-}
+# Sauces 🌶 {-}
 
 ## Jumbo Chilli Sauce {-}
 Nigella Lawson

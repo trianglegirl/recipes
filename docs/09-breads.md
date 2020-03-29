@@ -1,4 +1,4 @@
-# Breads 🍞 {-}
+# Bread 🥖 {-}
 
 ## Bread Machine Loaf - Sandwich Setting {-}
 

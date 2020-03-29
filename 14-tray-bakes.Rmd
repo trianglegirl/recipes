@@ -1,8 +1,4 @@
-# Tray bakes {-}
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
+# Tray bakes`r emo::ji("chestnut")` {-}
 
 ## Fruit oat and seeds bar {-}
 

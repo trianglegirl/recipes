@@ -1,4 +1,4 @@
-# Soups {-}
+# Soups 🥣 {-}
 
 ## Carrot and corriander soup {-}
 
