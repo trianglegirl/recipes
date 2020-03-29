@@ -1,4 +1,4 @@
-# Main meals `r emo::ji("burger")` {-}
+# Mexican `r emo::ji("burrito")` {-}
 
 ## Black-eyed beans with mushrooms {-}
 Madhur Jaffrey

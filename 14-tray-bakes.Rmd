@@ -1,4 +1,4 @@
-# Tray bakes`r emo::ji("chestnut")` {-}
+# Tray bakes `r emo::ji("chestnut")` {-}
 
 ## Fruit oat and seeds bar {-}
 

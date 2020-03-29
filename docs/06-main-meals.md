@@ -1,4 +1,4 @@
-# Main meals 🍔 {-}
+# Mexican 🌯 {-}
 
 ## Black-eyed beans with mushrooms {-}
 Madhur Jaffrey

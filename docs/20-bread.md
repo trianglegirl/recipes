@@ -1,4 +1,6 @@
-# Bread `r emo::ji("baguette_bread")` {-}
+# (PART\*) Miscellaneous {-}
+
+# Bread 🥖 {-}
 
 ## Bread Machine Loaf - Sandwich Setting {-}
 
