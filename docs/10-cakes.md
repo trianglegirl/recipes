@@ -74,25 +74,28 @@ Pour boiling water over dates, sugar, walnuts, banana and butter. Add bicarb. St
 ## Chocolate Guinness Cake {-}
 Nigella Lawson
 
+<img src="images/chocolate-guiness.jpg" width="200" alt="Cover image" align="right" style="margin: 0 1em 0 1em" />
+
+
 For the Cake
 
-* 250 millilitres guinness
-* 250 grams unsalted butter
-* 75 grams cocoa powder
-* 400 grams caster sugar
-* 142 ml sour cream
+* 250ml guinness
+* 250g unsalted butter
+* 75g cocoa powder
+* 400g caster sugar
+* 142ml sour cream
 * 2 large eggs
-* 1 tablespoon vanilla extract
-* 275 grams plain flour
-* 2½ teaspoons bicarbonate of soda
+* 1 tbs vanilla extract
+* 275g plain flour
+* 2½ tsp bicarbonate of soda
 
 For the Topping
 
-* 300 grams cream cheese
-* 150 grams icing sugar
-* 125 millilitres double cream (or whipping cream)
+* 300g cream cheese
+* 150g icing sugar
+* 125ml double cream (or whipping cream)
 
-Preheat the oven to gas mark 4/180°C/350ºF, and butter and line a 23cm / 9 inch springform tin.
+Preheat the oven to gas mark 180°C, and butter and line a 23cm springform tin.
 Pour the Guinness into a large wide saucepan, add the butter - in spoons or slices - and heat until the butter's melted, at which time you should whisk in the cocoa and sugar. Beat the sour cream with the eggs and vanilla and then pour into the brown, buttery, beery pan and finally whisk in the flour and bicarb.
 Pour the cake batter into the greased and lined tin and bake for 45 minutes to an hour. Leave to cool completely in the tin on a cooling rack, as it is quite a damp cake.
 
@@ -103,26 +106,28 @@ Add the cream and beat again until it makes a spreadable consistency. Ice the to
 ##  Blueberry Tart with Rye {-}
 Nordic Bakery
 
+<img src="images/blueberry-tart.jpg" width="200" alt="Cover image" align="right" style="margin: 0 1em 0 1em" />
+
 For the pastry
-- 100g (3.5 oz) Unsalted butter, softened at room temperature
-- 85g (3 oz) Caster sugar
-- 1 Egg, lightly beaten
-- 100g (3.5 oz) Plain flour
-- 60g (2.1 oz) Wholemeal rye flour
+- 100g Unsalted butter, softened at room temperature
+- 85g Caster sugar
+- 1 egg, lightly beaten
+- 100g plain flour
+- 60g Wholemeal rye flour
 - 1 tsp Baking powder
 
 For the filling
-- 100g (3.5 oz) Crème fraîche
-- 150ml (5.3 fl oz) Soured cream
-- 1 Egg, lightly beaten
-- 40g (1.4 oz) Caster Sugar
-- 1 tsp Vanilla extract
-- 250g (8.8 oz) Blueberries
+- 100g Crème fraîche
+- 150ml Soured cream
+- 1 egg, lightly beaten
+- 40g caster sugar
+- 1 tsp vanilla extract
+- 250g Blueberries
 
 Equipment
 - 1 x 24cm loose-bottomed, fluted tart tin,greased
 
-Preheat the oven to 200°C (400°F) Gas 6.
+Preheat the oven to 200°C.
 Put the butter and sugar in a mixing bowl and beat until well mixed. Gradually add the egg, mixing well. Tip in the flours and baking powder and mix again until a dough has formed. Transfer the dough to the tart tin and push and press it into the tin until the base and sides are evenly covered with a neat layer of dough.
 To make the filling, put the crème fraîche, soured cream, egg, sugar and vanilla extract in a mixing bowl and mix well. Pour into the pastry case, then scatter the blueberries into the tart. Bake in the preheated oven for 25 minutes, or until the filling has set and the pastry is golden brown.
 
@@ -177,6 +182,8 @@ Remove from the pan and dust with caster sugar while still warm. Some people lea
 Preheat oven to 175° and grease an 8" tray. Blitz the beans, oil, and sugar in a food processor. Add cocoa powder, banana, and vanilla extract, and blend again. Sift in flour, baking powder, and salt. Stir until smooth. Gently stir in chocolate and walnut pieces.  Bake for 25-30 minutes and let it cool in the tray.
 
 ## Dan Lepard Lemon Cake {-}
+
+<img src="images/lemon-loaf.jpg" width="200" alt="Cover image" align="right" style="margin: 0 1em 0 1em" />
 
 * 50g unsalted butter, melted 
 * 50ml sunflower oil

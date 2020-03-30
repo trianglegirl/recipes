@@ -19,6 +19,9 @@ Press into a lined 23cmx23cm tin. Roll a tin can over the top (with baking paper
 ## Blueberry Almond Slices {-}
 Dan Lepard
 
+<img src="images/blueberry-slices.jpg" width="200" alt="Cover image" align="right" style="margin: 0 1em 0 1em" />
+
+
 * 150g fresh blueberries
 * 2 tsp cornflour
 * 125g caster sugar
@@ -36,5 +39,5 @@ Heat 100ml water with the blueberries, cornflour and 50g caster sugar in a pan; 
 
 To make the almond crust, simmer the milk, honey, brown sugar and almonds until slightly thickened.
 
-Spread blueberry compote over the top of the cake mix, top this with the almond mixture, and bake at 180C (160C fan-assisted)/350F/ gas mark 4 for about 35 minutes. Remove and leave to cool before cutting into slices.
+Spread blueberry compote over the top of the cake mix, top this with the almond mixture, and bake at 160ºC fan for about 35 minutes. Remove and leave to cool before cutting into slices.
 

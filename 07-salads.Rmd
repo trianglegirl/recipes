@@ -2,7 +2,9 @@
 
 ## Broad Bean, Barley and Mint Salad {-}
 
-- 1l vegetable stock
+<img src="images/broadbean-salad.jpg" width="200" alt="Cover image" align="right" style="margin: 0 1em 0 1em" />
+
+- 1L vegetable stock
 - 500g podded fresh broad bean (or use frozen)
 - 225g pearl barley
 - 2 handfuls mint leaves

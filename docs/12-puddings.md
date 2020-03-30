@@ -4,6 +4,8 @@
 
 Fits our small glass bowl serves 2
 
+<img src="images/lemon-pudding.jpg" width="200" alt="Cover image" align="right" style="margin: 0 1em 0 1em" />
+
 * 30g butter/oil/margerine
 * 70g caster sugar
 * Zest 1/1.5 lemon

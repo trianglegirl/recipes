@@ -18,7 +18,7 @@ knitr::opts_chunk$set(echo = FALSE)
 # Introduction {-}
 
 This bookdown contains recipes that James and I use regularly.
-
+Most of these are adapted recipes from our favourite chefs. We've tried to credit the original author where possible.
 
 ```{r carrotcake, out.width = "500px", echo = FALSE}
 knitr::include_graphics("images/carrot-cake.jpg")

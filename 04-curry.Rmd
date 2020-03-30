@@ -30,10 +30,12 @@ Add tomatoes and spice. Cook for 10 mins. Throw in beans and cook for 20 min.
 
 
 ## Spiced Butternut Squash {-}
+Sophie Grigson (Eat your greens)
 
 * 600g butternut squash
-* 1/4 tsp turmeric
+* ¼ tsp turmeric
 * 1 bay leaf
+* ½ star anise
 * 150ml water
 * 1 small onion
 * 1 clove garlic
@@ -42,6 +44,5 @@ Add tomatoes and spice. Cook for 10 mins. Throw in beans and cook for 20 min.
 * 1 tsp coriander seeds
 * 1 inch ginger
 
-Squash, turmeric, bay leaf and water in pan. Lid on 20 min. Mash.
-Cook rest separately. Add to squash.
-Serve with rice.
+Squash, turmeric, bay leaf & star anise and water in pan. Lid on 20 min. Mash.
+Cook rest separately. Add to squash. Serve with rice.

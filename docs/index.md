@@ -16,6 +16,6 @@ description: "A list of recipes that James and I use regularly."
 # Introduction {-}
 
 This bookdown contains recipes that James and I use regularly.
-
+Most of these are adapted recipes from our favourite chefs. We've tried to credit the original author where possible.
 
 <img src="images/carrot-cake.jpg" width="500px" />
