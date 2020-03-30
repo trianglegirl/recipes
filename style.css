@@ -5,6 +5,10 @@
 .book.font-family-1 {
   font-family: 'Lato', sans-serif;
  }
+ 
+img {
+  border-radius: 10%;
+}
 
 .summary{
 font-family: 'Lato', sans-serif;
