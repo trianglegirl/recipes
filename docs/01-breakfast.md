@@ -20,15 +20,15 @@ Mix the flour, bicarbonate of soda and sugar together in a bowl. In a separate b
 ## Granola {-}
 
 <img src="images/granola.jpg" width="200" alt="Cover image" align="right" style="margin: 0 1em 0 1em" />
+Makes enough to fill our big baking tray.
 
+* 350g oats
+* 35ml sunflower oil
+* 80g honey
+* 80g seeds and nuts
 
-* 250g oats
-* 30g coconut oil
-* 60g honey
-* 50g mixed nuts
-* 50g seeds
-* 50g dried fruit
-
-Heat the oven to 150C. Melt the fat in the microwave. Mix  with the dry ingredients, apart from the fruit, in a large bowl.
+Heat the oven to 150C (fan). Melt the fat & honey in the microwave. Mix with the dry ingredients in a large bowl.
 Spread out on the baking sheet and bake for about 30-35 minutes until golden, stirring occasionally.
+
+Alternatives: Ginger & Molasses or Cranberry & Orange
 
