@@ -7,17 +7,16 @@ I am currently in the process of moving our reciepes from website format to Book
 Recipes to add 
 - [ ] Split pea soup - Cranks
 - [ ] Soda bread - perfect, delia?
-- [x] Naan
+- [ ] Naan
 - [ ] Wrap/chapatti
-- [ ] Humous
+- [x] Humous
 - [ ] Stew staple
-- [ ] Mums moroccan chickpeas
 - [ ] Coffee cake
 - [ ] Muffin reciepe
-- [ ] Banana bread
+- [x] Banana bread
 - [ ] Tomato sauce
-- [ ] Lentil dahl
-- [ ] Bean chilli
+- [x] Lentil dahl
+- [x] Bean chilli
 - [ ] Sweet potato cake
 - [ ] Potato cakes
 - [ ] Sweetcorn fritters

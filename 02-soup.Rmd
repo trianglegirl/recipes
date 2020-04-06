@@ -14,7 +14,7 @@
 
 Heat oil, add onion cook until soft.
 Add carrots, potato, celery. Cover and cook slowly for 10 min.
-Stir in ground/crushed coriander and pour in stock. Bring to boil, cook for 20*25 min.
+Stir in ground/crushed coriander and pour in stock. Bring to boil, cook for 25 min.
 Blitz and serve.
 
 ## Carrot and lentil soup {-}

@@ -1,4 +1,4 @@
-# Mexican `r emo::ji("burrito")` {-}
+# Mexican 🌯 {-}
 
 ## Mexican Bean Chilli {-}
 
@@ -42,34 +42,3 @@ Serve with rice and sour cream.
 Fry onion garlic in oil
 Add spices, beans, stock. 
 Cook until soft (10-20 min) and mash. 
-
-##  Moroccan Spiced Chickpeas with Spinach {-}
-
-- 1 onion
-- 2 cloves garlic
-- 2-3 tsp Moroccan spice mix(2 tbsp cumin and corriander, 1 tbsp tumeric, 1-2 tbsp chilli powder )
-- 200g toms
-- 400g chickpeas
-- handful fresh spinach
-- yogurt (to serve)
-
-Cook onion in oil (5min).
-Stir garlic and spice mix, fry for a few seconds then tip in toms and mash them.
-Bring to boil, add chickpeas, cover and simmer for 8min.
-Chuck in spinach and coriander and cook for 2 min.
-Serve with naan and yogurt.
-
-
-##  Rice and peas {-}
-
-* 1 onion
-* 2 cloves of garlic
-* thyme 
-* 50g creamed coconut
-* 200g rice
-* 450ml stock
-* 1 chilli
-* 200g cooked kidney beans
-* all spice berry
-
-Fry onion and garlic. Add everything else. bring to boil, cover and cook for 20 min. 

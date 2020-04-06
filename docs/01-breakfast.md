@@ -1,7 +1,7 @@
 # Breakfast 🥞{-}
 
 ## Blueberry pancakes {-}
-Simon Rimmer
+[Simon Rimmer](https://www.bbc.co.uk/food/recipes/blueberrypancakeswit_74503)
 
 <img src="images/blueberry-pancakes.jpg" width="200" alt="Cover image" align="right" style="margin: 0 1em 0 1em" />
 
@@ -27,7 +27,7 @@ Makes enough to fill our big baking tray.
 * 80g honey
 * 80g seeds and nuts
 
-Heat the oven to 150C (fan). Melt the fat & honey in the microwave. Mix with the dry ingredients in a large bowl.
+Heat the oven to 150°C fan. Melt the fat & honey in the microwave. Mix with the dry ingredients in a large bowl.
 Spread out on the baking sheet and bake for about 30-35 minutes until golden, stirring occasionally.
 
 Alternatives: Ginger & Molasses or Cranberry & Orange

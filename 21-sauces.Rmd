@@ -32,3 +32,12 @@ Blend/chop ginger and garlic. Mix everything except peanut butter.
 Add peanut butter spoon at a time, adding water if needed. Seal in glass jar and shake.
 
 Add roasted peanuts and coconut milk to make it a satay sauce.
+
+## Houmous
+
+- 400g cooked chickpeas
+- juice of 1 lemon
+- 50g tahini
+- 2-3 garlic cloves
+
+Blitz.

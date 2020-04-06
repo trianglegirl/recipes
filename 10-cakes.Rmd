@@ -2,6 +2,34 @@
 
 # Cakes `r emo::ji("shortcake")` {-}
 
+## Easy carrot cake {-}
+Dan Lepard
+
+<img src="images/carrot-cake.jpg" width="200" alt="Cover image" align="right" style="margin: 0 1em 0 1em" />
+
+* 175g plain flour
+* 2 tsp baking powder
+* 1 tsp ground cinnamon
+* ½ tsp ground cloves and nutmeg
+* 150g light brown sugar (I've cut this down)
+* 150ml sunflower oil
+* 2 large eggs
+* 150-200g grated carrot
+* 75g chopped walnuts/pecans
+
+For the icing (Enough to top and sides)
+
+* 100g soft cream cheese
+* 100g creme fraiche
+* 3tbsp icing sugar
+* 1 lemon (zest and 2 tsp juice)
+
+Preheat oven to 160°C fan and linethe springform tin.
+Mix flour, baking powder and spices in one bowl. 
+In another bowl, mix sugar with oil and with with eggs until smooth.
+Stir in carrots and walnuts. Fold in the sifted dry ingredients.
+Bake in for 30  min. Let cool in tin before icing.
+
 ## Dark Aniseed Cake {-}
 Dan Lepard
 
@@ -25,39 +53,6 @@ Slowly beat in the prune mixture until combined into a dark creamy liquid. Sieve
 Toss the baking powder and seeds through the flour, then beat evenly through the prune mixture.
 Tip the mixture into the tin, smooth the top and bake for 50 minutes, until a skewer inserted into the middle comes out clean.
 Cool in the tin, then transfer to a plate. Beat the icing sugar and orangey bits together, then spread this over the cake.
-
-## Easy carrot cake {-}
-Dan Lepard
-
-* 175g plain flour
-* 2 tsp baking powder
-* 1 tsp ground cinnamon
-* 1/2 tsp ground cloves and nutmeg
-* 150g light brown sugar (I've cut this down)
-* 150ml sunflower oil
-* 2 large eggs
-* 150-200g grated carrot
-* 75g chopped walnuts/pecans
-
-For the icing (Enough to top and sides)
-
-* 100g soft cream cheese
-* 100g creme fraiche
-* 3tbsp icing sugar
-* 1 lemon (zest and 2 tsp juice)
-
-Preheat oven to 180°C and line two 20cm round sponge tins.
-Mix flour, baking powder and spices in one bowl. 
-In another bowl, mix sugar with oil and with with eggs until smooth.
-Stir in carrots and walnuts. Fold in the sifted dry ingredients.
-Bake in springformtin for 30  min. 
-Cool in tin. 
-
-```{r carrotcake, out.width = "200px", echo = FALSE}
-knitr::include_graphics("images/carrot-cake.jpg")
-```
-
-
 
 ## Date and walnut loaf {-}
 Jill Dupleix (Favourite Food)
@@ -159,7 +154,7 @@ Spread the mixture on top of the crushed biscuits. Refrigerate for at least an h
 * handful of sultanas
 * milk, if needed
 * 40g caster sugar
-* 1/2 tsp mixed spice.
+* ½ tsp mixed spice.
 
 Rub the fat into the sieved flour to make breadcrumbs. Add the sugar, dried fruit and then the egg. Mix to combine, then form a ball of dough, using a splash of milk if needed.
 Roll out the pastry until it is a 5mm/¼in thick and cut into rounds with a 7.5-10cm/3-4in fluted cutter.
@@ -181,7 +176,7 @@ Remove from the pan and dust with caster sugar while still warm. Some people lea
 * pinch of salt
 
 
-Preheat oven to 175° and grease an 8" tray. Blitz the beans, oil, and sugar in a food processor. Add cocoa powder, banana, and vanilla extract, and blend again. Sift in flour, baking powder, and salt. Stir until smooth. Gently stir in chocolate and walnut pieces.  Bake for 25-30 minutes and let it cool in the tray.
+Preheat oven to 175°C and grease an 8" tray. Blitz the beans, oil, and sugar in a food processor. Add cocoa powder, banana, and vanilla extract, and blend again. Sift in flour, baking powder, and salt. Stir until smooth. Gently stir in chocolate and walnut pieces.  Bake for 25-30 minutes and let it cool in the tray.
 
 ## Dan Lepard Lemon Cake {-}
 
@@ -199,6 +194,6 @@ Preheat oven to 175° and grease an 8" tray. Blitz the beans, oil, and sugar in 
 * 90ml lemon juice
 * 75g icing sugar
 
-Line a small, 17cm-long loaf tin, or similar, with nonstick baking paper, and preheat the oven to 180C (fan-assisted 160C)/350F/gas mark 4. Melt the butter in a pan, then pour into a mixing bowl along with the oil. Add the lemon zest, sugar and eggs, whisk for a minute until smooth and slightly bubbly, then stir in the almonds. In a separate bowl, mix the flour, cornflour and baking powder, then sift half of this into the butter/egg bowl. Beat in 75ml of the lemon juice, then sift in the remaining flour mixture and beat until smooth.
+Line a small, 17cm-long loaf tin, or similar, with nonstick baking paper, and preheat the oven to 160°C fan. Melt the butter in a pan, then pour into a mixing bowl along with the oil. Add the lemon zest, sugar and eggs, whisk for a minute until smooth and slightly bubbly, then stir in the almonds. In a separate bowl, mix the flour, cornflour and baking powder, then sift half of this into the butter/egg bowl. Beat in 75ml of the lemon juice, then sift in the remaining flour mixture and beat until smooth.
 
 Spoon the cake mixture into the loaf tin, and bake for 45-50 minutes, until a skewer comes out clean. Remove and leave to cool for five minutes. Beat the remaining 15ml of lemon juice with the icing sugar, and spread this mix over the top of the cake while it's still in the tin. Leave until barely warm before serving.

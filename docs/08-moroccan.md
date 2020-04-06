@@ -1,0 +1,42 @@
+# Middle Eastern 🥘 {-}
+
+##  Moroccan Spiced Chickpeas with Spinach {-}
+
+From the [Ultimate Student Cookbook](https://www.goodreads.com/book/show/6791894-the-ultimate-student-cookbook)
+
+<img src="images/moroccan-chickpeas.png" width="200" alt="Cover image" align="right" style="margin: 0 1em 0 1em" />
+
+- 1 onion
+- 2 cloves garlic
+- 2-3 tsp Moroccan spice mix
+  - 1 tsp cumin
+  - 1 tsp corriander
+  - ½ tsp turmeric
+  - ½ tsp chilli powder
+- 200g chopped tomatoes
+- 400g chickpeas cooked
+- handful fresh spinach
+
+Cook onion in oil  for 5min. 
+Stir garlic and spice mix, fry for a few seconds then tip in toms and mash them.
+Bring to boil, add chickpeas, cover and simmer for 8min.
+Chuck in spinach and coriander and cook for 2 min.
+Serve with naan and yogurt.
+
+## Bulgur Wheat Pilaf {-}
+
+Adapted from Rose Elliot "Vegetarian Dishes of the World"
+
+- 225g Bulgur wheat
+- 575ml boiling water
+- 1 onion
+- 1-2 garlic cloves
+- 1 red pepper
+- ? Aubergine
+- ? Broadbeans
+- ? Peas
+- 50g sultans/raisins/apricot
+- ? Feta
+
+Soak the bulgarwheat in boiling water in a bowl. Leave for 15-30min.
+Fry onion and garlic. Add other vegetables and cook in pan. Just before serving, add the bulgarwheat, dried fruit and feta and gently cook with lid on for 5 minutes.

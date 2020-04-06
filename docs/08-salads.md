@@ -1,0 +1,30 @@
+# Salads 🥗{-}
+
+## Broad Bean, Barley and Mint Salad {-}
+
+<img src="images/broadbean-salad.jpg" width="200" alt="Cover image" align="right" style="margin: 0 1em 0 1em" />
+
+- 1L vegetable stock
+- 500g podded fresh broad bean (or use frozen)
+- 225g pearl barley
+- 2 handfuls mint leaves
+- 200g radish, quartered
+- 100g whole hazelnut, toasted and roughly chopped
+- 140g goat's cheese, crumbled into small chunks
+- 4 tbsp cold-pressed rapeseed or olive oil
+- 1 tbsp red wine vinegar
+- juice and zest ½ lemon
+- 1 tbsp finely chopped mint leaves
+
+Heat the stock in a medium saucepan until boiling, then add the broad beans and cook for 3 mins until they float. Using a slotted spoon, transfer to a bowl and run under cold water to stop them cooking further. Squeeze the beans from their skins, if desired.
+Add the pearl barley to the stock and simmer over a low heat for 40-45 mins until tender. Drain the barley, stir through the mint leaves while still warm, then leave to cool.
+For the dressing, whisk all the ingredients together, season generously and mix into the cooled barley. Serve on a large platter or individual plates, scattered with the radishes, hazelnuts and goat’s cheese.
+
+## Carrot peanut salad {-}
+Nigella Lawson
+
+* 2/3 carrots
+* 1/4 tsp sesame oil
+* 1tbsp olive oil
+* 1tbsp red wine vinegar
+* 35g salted peanuts
