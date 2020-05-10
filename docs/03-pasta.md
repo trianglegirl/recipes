@@ -18,6 +18,35 @@ Heat the oil in a large saucepan and add the onions, carrots, celery and garlic.
 Stir in the lentils, chopped tomatoes, tomato purée, herbs and stock. Bring to a simmer, then cook for 40-50 mins until the lentils are tender and saucy – splash in water if you need. Season.
 Serve with spaghetti or linguine and cheese.
 
+## Sweet potato macaroni cheese {-}
+[Meera Sodhas](https://amp.theguardian.com/food/2020/mar/21/meera-sodhas-vegan-recipe-for-creamy-macaroni-with-sweet-potato-and-gochujang)
+
+<img src="images/macaroni.jpg" width="200" alt="Cover image" align="right" style="margin: 0 1em 0 1em" />
+
+* 175g macaroni
+* 1 medium sweet potato
+* 50g cashews nuts, roasted and unsalted
+* 1 garlic cloves
+* 1 tsp miso paste (optional)
+* 1 tsp Sriracha sauce (optional)
+* 2 tbsp white flour
+* 2½ tbsp nutritional yeast
+* 30g breadcrumbs
+
+Heat the oven to 180C fan. Cook pasta for 2 minuates less than packet says.
+
+Peel and chop the sweet potato into 1cm cubes, and put them in a small saucepan with the cashews and a garlic c clove. Bring to a boil, then simmer for 10 minutes.
+
+Blend potato, garlic, nuts, flour, nutritonal yeast and optional flavours with 500ml water until smooth.
+
+Toss the macaroni with the sauce and transfer to our glass oval dish. Finely chop the spring onions and mince the remaining garlic clove.
+
+Mix crushed garlic, oil, ½ tsp salt and breadcrumbs in a bowl to make a topping.
+
+Bake for 20 minutes, until golden and bubbling.
+
+
+
 ## Butternut squash pasta {-}
 
 * 30g butter
